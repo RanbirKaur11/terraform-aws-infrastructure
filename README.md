@@ -2,6 +2,5 @@
 
 ---
 ## 🔗 Resources
-Terraform Documentation
-AWS Documentation
-Course Support Forum
+Terraform Documentation https://www.terraform.io/docs
+AWS Documentation  https://docs.aws.amazon.com/
