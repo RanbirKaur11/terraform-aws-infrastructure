@@ -2,7 +2,7 @@
 
 This repository contains Terraform configurations for provisioning AWS infrastructure as part of hands-on practice and learning.
 
-It includes example code and basic documentation for working with Terraform and AWS services using infrastructure-as-code principles.
+It includes example code and basic documentation for working with Terraform and AWS using infrastructure-as-code principles.
 
 ---
 
@@ -14,7 +14,7 @@ This repository is intended for:
 - Working with common AWS services
 - Exploring modular and reusable infrastructure patterns
 
-The content is focused on practical experimentation and may evolve over time.
+The content focuses on practical experimentation and may evolve over time.
 
 ---
 
@@ -22,8 +22,9 @@ The content is focused on practical experimentation and may evolve over time.
 
 This is a personal practice repository created for learning and skill development.
 
-Note: If you found the content helpful, consider giving the repository a star ⭐
 ---
+
 ## 🔗 Resources
-Terraform Documentation https://www.terraform.io/docs
-AWS Documentation  https://docs.aws.amazon.com/
+
+- Terraform Documentation: https://developer.hashicorp.com/terraform/docs
+- AWS Documentation: https://docs.aws.amazon.com/
